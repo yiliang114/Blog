@@ -1,2 +1,2 @@
-## mrjzhang blog
+## blog
 
