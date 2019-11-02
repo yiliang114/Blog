@@ -1,5 +1,18 @@
 # YiLiang 's Blog
 
-* 就是想写一些东西而已
+- 就是想记录一些东西。
 
-对于我所有的博客，都会先写在 docs 这个目录下面，因为很多博客的内容对于我本人来说是有意义的，比如 JavaScript 一块知识点的总结，但是对于很多人来说，可能算不上一篇很好的博客内容，况且类似的文章各种论坛早就有了。所以我认为比较 ok 的博客才会在 issue 中新建。
+## 前端
+
+- [尝试用 vue 实现灭霸打响指英雄消失的效果 demo](./docs/fe/vue-thanos.md)
+- [前端校招总结](./docs/fe/campus-faq.md)
+- [谈一谈对浏览器的强缓存和协商缓存的理解](./docs/fe/cache.md)
+- [vue-cli@2.x 项目迁移日志](./docs/fe/vue-cli@2.x-upgrade.md)
+- [移除 vscode 装饰器报错](./docs/fe/remove-decorator-error.md)
+
+## 工具类
+
+- [翻墙服务器](./docs/tools/google-proxy.md)
+- [轻量应用服务器](./docs/tools/light-cvm.md)
+- [Mac OS 命令行下使用 SublimeText 打开文本文件](./docs/tools/mac-sublime.md)
+- [travis 部署](./docs/tools/travis-deploy.md)
